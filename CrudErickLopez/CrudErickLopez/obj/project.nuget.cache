@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jfk1YvIJMDAumuEOhv9c9/X20JalkK3hg7I82ael2OftyBovBZLwFV0p98ZZcqwtg6IJC2qI/M/udNfwiUvNDA==",
+  "dgSpecHash": "QsaudcT+zoj10TTqres6n2UEliZ/iP2oWtPemoXT250V/vQlXDDWVeoaNf3mjEVW0s9LcptBeYcPur9AJc001g==",
   "success": true,
-  "projectFilePath": "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
+  "projectFilePath": "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elden\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elden\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
