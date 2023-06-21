@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj": {}
+    "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj": {}
   },
   "projects": {
-    "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj": {
+    "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
+        "projectUniqueName": "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
         "projectName": "CrudErickLopez",
-        "projectPath": "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
+        "projectPath": "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\CrudErickLopez.csproj",
         "packagesPath": "C:\\Users\\elden\\.nuget\\packages\\",
-        "outputPath": "D:\\Entregas\\22\\CrudErickLopez\\CrudErickLopez\\obj\\",
+        "outputPath": "D:\\Entregas\\23\\CrudErickLopez\\CrudErickLopez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elden\\AppData\\Roaming\\NuGet\\NuGet.Config",
